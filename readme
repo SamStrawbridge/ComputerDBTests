@@ -1,1 +1,7 @@
+Running Cypress tests
 
+Pre requisite: Node.js version 12 or 14 and above
+
+1.	Run ‘npm install’ on the project
+2.	Open a new terminal/cmd line at the tests folder level
+3.	Run ‘npx cypress open’
